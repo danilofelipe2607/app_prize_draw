@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750113524171",
+    "project_id": "prizedraw-3fdab",
+    "storage_bucket": "prizedraw-3fdab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750113524171:android:fed4eb28186c7e0cbbce4e",
+        "android_client_info": {
+          "package_name": "com.prizedraw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750113524171-v6c1iuh38glrgma4lqh268g8am2fju6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prizedraw",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "750113524171-uc73po67bfqu8e6u43jfgqc7cqidei8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJijnhih1XPweZ__9Ux9-3V-UwvVkeNjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750113524171-uc73po67bfqu8e6u43jfgqc7cqidei8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
